@@ -6,11 +6,11 @@ url: "https://ickogz.github.io" # the base hostname & protocol for your site e.g
 
 # User settings
 username: Bra1n.net
-user_description: En ocasiones la seguridad... blablabla
-user_title: Especialistas en seguridad
-email: a@b.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+user_description: La seguridad de la información es un campo que requiere una alta especialización y una constante actualizacion. <br>Nosotros entrenamos todos los días para brindar las mejores soluciones a nuestros clientes. 
+user_title: Especialistas en ciberseguridad
+email: bernardo.viqueira@bra1n.net
+twitter_username: Bra1nNet
+github_username:  ickogz
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
